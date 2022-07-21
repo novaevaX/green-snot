@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Banana
+  - Trap
+  - Flag
+  - HideObject
+  - Tilemap
+  - FallingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Flag
+  - Water
+  - UI
+  - Ground
+  - TrapLayer
+  - PlatformGround
+  - CollectionItems
+  - InvisibleBoxElement
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: layer-1 bg
+    uniqueID: 1729388669
+    locked: 0
+  - name: HideObject
+    uniqueID: 2238008651
+    locked: 0
+  - name: background
+    uniqueID: 877458311
+    locked: 0
+  - name: TrapHide
+    uniqueID: 576180979
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgroundTop
+    uniqueID: 3033673889
+    locked: 0
+  - name: Flag
+    uniqueID: 3091263899
+    locked: 0
+  - name: tilemap
+    uniqueID: 3150402839
+    locked: 0
